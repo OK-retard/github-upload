@@ -1,0 +1,3 @@
+C:\Users\jwogan\source\repos\obj\Debug\netcoreapp3.0\repos.csprojAssemblyReference.cache
+C:\Users\jwogan\source\repos\obj\Debug\netcoreapp3.0\repos.AssemblyInfoInputs.cache
+C:\Users\jwogan\source\repos\obj\Debug\netcoreapp3.0\repos.AssemblyInfo.cs

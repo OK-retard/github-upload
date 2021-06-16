@@ -1,0 +1,13 @@
+C:\Users\jwogan\source\repos\TutorialsPoint\bin\Debug\netcoreapp3.1\TutorialsPoint.exe
+C:\Users\jwogan\source\repos\TutorialsPoint\bin\Debug\netcoreapp3.1\TutorialsPoint.deps.json
+C:\Users\jwogan\source\repos\TutorialsPoint\bin\Debug\netcoreapp3.1\TutorialsPoint.runtimeconfig.json
+C:\Users\jwogan\source\repos\TutorialsPoint\bin\Debug\netcoreapp3.1\TutorialsPoint.runtimeconfig.dev.json
+C:\Users\jwogan\source\repos\TutorialsPoint\bin\Debug\netcoreapp3.1\TutorialsPoint.dll
+C:\Users\jwogan\source\repos\TutorialsPoint\bin\Debug\netcoreapp3.1\TutorialsPoint.pdb
+C:\Users\jwogan\source\repos\TutorialsPoint\obj\Debug\netcoreapp3.1\TutorialsPoint.vbprojAssemblyReference.cache
+C:\Users\jwogan\source\repos\TutorialsPoint\obj\Debug\netcoreapp3.1\TutorialsPoint.AssemblyInfoInputs.cache
+C:\Users\jwogan\source\repos\TutorialsPoint\obj\Debug\netcoreapp3.1\TutorialsPoint.AssemblyInfo.vb
+C:\Users\jwogan\source\repos\TutorialsPoint\obj\Debug\netcoreapp3.1\TutorialsPoint.vbproj.CoreCompileInputs.cache
+C:\Users\jwogan\source\repos\TutorialsPoint\obj\Debug\netcoreapp3.1\TutorialsPoint.dll
+C:\Users\jwogan\source\repos\TutorialsPoint\obj\Debug\netcoreapp3.1\TutorialsPoint.pdb
+C:\Users\jwogan\source\repos\TutorialsPoint\obj\Debug\netcoreapp3.1\TutorialsPoint.genruntimeconfig.cache
